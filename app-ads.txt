@@ -18,7 +18,7 @@ google.com, pub-8496589232335509, DIRECT, f08c47fec0942fa0
 #Meta-Audience
 
 
-facebook.com,1294674006097225,RESELLER,c3e20eee3f780d68
+facebook.com,1294674006097225,DIRECT,c3e20eee3f780d68
 
 #Add other networks if applicable
 
